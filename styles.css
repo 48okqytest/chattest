@@ -1,5 +1,5 @@
 /* https://www.color-hex.com/color/d3d3d3 */
-    background-color: #192734; /*#f6f6f6, EBEBD3, fafafa*/
+    background-color: #FFFFED; /*#f6f6f6, EBEBD3, fafafa*/
     font-family: Courier New;
     font-weight: 900;
     overflow: hidden;
@@ -21,7 +21,7 @@
     justify-content: center;
     align-items: center;
   font-family: 'Courier New';
-    background-color: #084887;/*#467599;*/
+    background-color: #FFFFED;/*#467599;*/
     border-bottom: 5px solid #fff;
     box-shadow: 0 0 30px -18px white;
     ;
@@ -40,7 +40,7 @@
   }
   #title{
     display: inline-block;
-    color: white;/*EBEBD3, C5283D*/
+    color: red;/*EBEBD3, C5283D*/
     font-size: 55px;
     letter-spacing: 2px;
     user-select: none;
@@ -76,7 +76,7 @@
     width: 60%;
     height: 40px;
   
-    color: white;
+    color: blue;
     font-family: Varela Round;
     font-size: 15px;
     font-weight: bold;
